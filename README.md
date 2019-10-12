@@ -1,4 +1,7 @@
 # Text Summarization in IBM WATSON STUDIO
+# Tools Required:
+   Jupyter Notebook
+   IBM Watson Studio
 # STEPS 
  1) RUN THE textsummarization.ipynb file
    install the necessary packages by using pip install ___package name____:
